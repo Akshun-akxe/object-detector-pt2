@@ -1,0 +1,24 @@
+body {
+    background: rgb(219, 14, 14);
+    background: linear-gradient(90deg, rgba(219, 14, 14, 1) 8%, rgba(78, 74, 144, 1) 59%, rgba(14, 170, 219, 1) 78%);
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    font-size: 23px;
+    width: fit-content;
+}
+
+.E {
+    float: left;
+}
+
+.img-responsive {
+    height: 450px;
+    width: 450px;
+}
+
+.number_of_objects {
+    margin-right: 30px;
+}
